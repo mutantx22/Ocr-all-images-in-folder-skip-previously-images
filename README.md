@@ -12,4 +12,4 @@ This will process any and all files in the current folder, outputting to output.
 
 Asks you to manually enter a folder path,  outputting to output.txt and skipping over any images previously processed
 
-    OCR on All the Images present in a Folder Simultaneously-seperate-skip-previous-processed-images-manual-input-path.py
+  python "OCR on All the Images present in a Folder Simultaneously-seperate-skip-previous-processed-images-manual-input-path.py"
